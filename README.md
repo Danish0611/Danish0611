@@ -5,7 +5,6 @@
     </div>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish0611&label=Profile%20views&color=0e75b6&style=flat" alt="danish0611" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danish0611&theme=onedark" alt="danish0611" /></a> </p>
