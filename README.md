@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1619250680290/l6Y_qPlOx.gif)](https://rishavchanda.io)(https://danish0611.io)
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1619250680290/l6Y_qPlOx.gif)](https://danish0611.io)
 <h1 align="center">Hi 👋, I'm Mohd Danish</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 
