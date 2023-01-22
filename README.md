@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **EMS.com**
 
-- 🌱 I’m currently learning **Jvascript**
+- 🌱 I’m currently learning **Jvascript, DSA**
 
-- 💬 Ask me about **JS-101**
+- 💬 Ask me about **Javascript, Dsa, HTML, CSS**
 
 - 📫 How to reach me **mohammaddanish313@gmail.com**
 
