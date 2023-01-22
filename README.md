@@ -1,6 +1,10 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1619250680290/l6Y_qPlOx.gif)](https://danish0611.io)
-<h1 align="center">Hi 👋, I'm Mohd Danish</h1>
-<h3 align="center">Aspiring Fullstack Developer</h3>
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1619250680290/l6Y_qPlOx.gif)](https://danish0611)
+
+ <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=40&pause=1000&color=34568B&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohd+Danish;Aspiring+Full+Stack+Developer" alt="Headline" />
+    </div>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish0611&label=Profile%20views&color=0e75b6&style=flat" alt="danish0611" /> </p>
 
