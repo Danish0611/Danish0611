@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohammaddanish313@gmail.com**
 
-- ⚡ Fun fact **Something I can improve about myself is my software knowledge, which is why I currently take technology courses**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
