@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Jvascript, DSA**
 
-- 💬 Ask me about **Javascript, Dsa, HTML, CSS**
+- 💬 Ask me about **Javascript, DSA, HTML, CSS**
 
 - 📫 How to reach me **mohammaddanish313@gmail.com**
 
